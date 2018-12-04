@@ -1,4 +1,4 @@
-module github.com/loitd/gesa/db
+module github.com/loitd/godb
 
 require (
 	github.com/oleiade/reflections v1.0.0

@@ -6,7 +6,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 // This package does anything with database for this app/plugin.
 // Currently added Oracle database via ora.v4 developed and tested on Windows OS.
 // Created by Loitd for his project
-package db
+package godb
 
 import (
 	"fmt"
@@ -19,7 +19,6 @@ import (
 
 /*
 	DBStruct defines DB Class
-	김치 한국사람
 */
 type DBStruct struct {
 	// we'll define common properties here
